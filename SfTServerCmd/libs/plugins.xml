@@ -1,0 +1,6 @@
+<ie>
+    <plugins>
+        <plugin name="CPU" location="openvino_intel_cpu_plugin.dll">
+        </plugin>
+    </plugins>
+</ie>
